@@ -62,20 +62,6 @@ homepage property or json data won't load.
 <a href="https://www.w3docs.com/snippets/css/how-to-create-polaroid-image-with-css.html#">Polaroid effect</a> <br/>
 <a href="https://tholman.com/github-corners/">GitHub Ref Corner</a>
 
-<h3>:memo: Changelog</h3>
-
-<details>
-<summary>[ 03.10.2021, contributor: <a href="https://github.com/shahednasser">@shahednasser</a> ]</summary>
-<pre>
-- updated sass dependency.
-</pre>
-</details>
-<details>
-<summary>[ 26.05.2021, contributor: <a href="https://github.com/DavidMatalik">@DavidMatalik</a> ]</summary>
-<pre>
-- removed nonexisting logos references: logo192 and logo512.  
-</pre>
-</details>
 <details>
 <summary>[ 17.01.2021, contributor: <a href="https://github.com/igorperic17">@igorperic17</a> ]</summary>
 <pre>
@@ -117,13 +103,3 @@ homepage property or json data won't load.
 - centered fullname/pos/theme toggler in Header section
 </pre>
 </details>
-
-<h3>:gear: Contribution</h3>
-
-If you have any suggestions on what to improve in <em>react-frontend-dev-portfolio</em> and would like to share them, feel free to leave an issue or fork project to implement your own ideas :slightly_smiling_face:
-
-<h3>:camera: Credits(images)</h3>
-
-Images used in portfolio template come from Pixabay, references:
-
-<a href="https://pixabay.com/photos/people-woman-girl-clothing-eye-2563491/">p1</a>, <a href="https://pixabay.com/photos/dog-puppy-sharpei-petit-animal-1865712/">p2</a>, <a href="https://pixabay.com/photos/night-camera-photographer-photo-1927265/">p3</a>, <a href="https://pixabay.com/photos/road-forest-season-autumn-fall-1072823/">p4</a>, <a href="https://pixabay.com/photos/neuschwanstein-castle-bavaria-701732/">p5</a>, <a href="https://pixabay.com/photos/hohenschwangau-alps-alpsee-bavaria-532864/">p6</a>
